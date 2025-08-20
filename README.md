@@ -12,7 +12,7 @@ This software is easy to use.
 
 First clone the repo :
 
-`git clone https://github.com/mdecoder24/pneumonia-detection.git`
+`git clone https://github.com/mdecoder24/Pneumonia-Detection.git`
 
 Then rename env file :
 
