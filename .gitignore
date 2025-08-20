@@ -1,0 +1,7 @@
+front/node_modules/
+__pycache__
+.env
+.DS_Store
+**/.DS_Store
+db/
+back/api/models/
